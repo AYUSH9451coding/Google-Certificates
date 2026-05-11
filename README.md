@@ -1,5 +1,5 @@
-# Google-Certificates
-My certificates and badges
+# Google-Badges
+My badges
 <br><br>
 ## Set Up a Google Cloud Network
 ![Network Badge](network-badge.png)
