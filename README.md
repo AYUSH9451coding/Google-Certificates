@@ -2,7 +2,7 @@
 My certificates and badges
 <br><br>
 ## Set Up a Googlr Cloud Network
-![Network Badge] (network-badge.png)
+![Network Badge](network-badge.png)
 <br><br>
 ## Skill Up Summer Arcade
-![Arcade Badge] (arcade-badge.png)
+![Arcade Badge](arcade-badge.png)
